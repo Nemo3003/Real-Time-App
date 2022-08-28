@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "41sIIMESd6sVXqLo5+8JsxIJQHZOcNw5yJPt8RqIOOFynJStyWhC7cY2QwNQYISH5Y33K/N79mmIS2IqKKiUpw==",
+  "success": true,
+  "projectFilePath": "H:\\Personal Projects\\Proyecto 2022-2024\\Real-Time-App\\Proyect-Chat-App\\Proyect-Chat-App\\Proyect-Chat-App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ulima\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ulima\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ulima\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ulima\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ulima\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ulima\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
