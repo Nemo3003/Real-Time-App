@@ -18,5 +18,7 @@
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgMicrosoft_Extensions_ApiDescription_Server Condition=" '$(PkgMicrosoft_Extensions_ApiDescription_Server)' == '' ">C:\Users\ulima\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0</PkgMicrosoft_Extensions_ApiDescription_Server>
+    <PkgNewtonsoft_Json Condition=" '$(PkgNewtonsoft_Json)' == '' ">C:\Users\ulima\.nuget\packages\newtonsoft.json\6.0.4</PkgNewtonsoft_Json>
+    <PkgjQuery Condition=" '$(PkgjQuery)' == '' ">C:\Users\ulima\.nuget\packages\jquery\1.6.4</PkgjQuery>
   </PropertyGroup>
 </Project>
