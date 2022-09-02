@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t82paUUnXLm67zJHH7NLKQYwOuXK6LF+RG6A4rX49r/bQumZsYBynUju0i/PXo0h1a8Tnimb+Sm0uYitQFgVqQ==",
+  "dgSpecHash": "Sm772ar/IdOmEGoTCEtsR2+AFY+L76Wyu1BEfqsVkcIDvXl4OVRKBfgwt+MIisPwl8aTf/FwB4AOkKn8Nxn4hw==",
   "success": true,
-  "projectFilePath": "H:\\Personal Projects\\Proyecto 2022-2024\\Real-Time-App\\Proyect-Chat-App\\Proyect-Chat-App\\Proyect-Chat-App.csproj",
+  "projectFilePath": "H:\\Personal Projects\\Proyecto 2022-2024\\Real-Time-App\\Proyect-Chat-App\\Proyect-Chat-App\\SignalRChat.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ulima\\.nuget\\packages\\jquery\\1.6.4\\jquery.1.6.4.nupkg.sha512",
     "C:\\Users\\ulima\\.nuget\\packages\\json2\\1.0.2\\json2.1.0.2.nupkg.sha512",

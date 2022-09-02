@@ -486,9 +486,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Personal Projects\\Proyecto 2022-2024\\Real-Time-App\\Proyect-Chat-App\\Proyect-Chat-App\\Proyect-Chat-App.csproj",
-      "projectName": "Proyect-Chat-App",
-      "projectPath": "H:\\Personal Projects\\Proyecto 2022-2024\\Real-Time-App\\Proyect-Chat-App\\Proyect-Chat-App\\Proyect-Chat-App.csproj",
+      "projectUniqueName": "H:\\Personal Projects\\Proyecto 2022-2024\\Real-Time-App\\Proyect-Chat-App\\Proyect-Chat-App\\SignalRChat.csproj",
+      "projectName": "SignalRChat",
+      "projectPath": "H:\\Personal Projects\\Proyecto 2022-2024\\Real-Time-App\\Proyect-Chat-App\\Proyect-Chat-App\\SignalRChat.csproj",
       "packagesPath": "C:\\Users\\ulima\\.nuget\\packages\\",
       "outputPath": "H:\\Personal Projects\\Proyecto 2022-2024\\Real-Time-App\\Proyect-Chat-App\\Proyect-Chat-App\\obj\\",
       "projectStyle": "PackageReference",
